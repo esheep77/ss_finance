@@ -1,5 +1,4 @@
 # Skysource Finance (ss_finance)
-=============
 Project to improve Skysource finance processes and analysis
 
 Key Features
